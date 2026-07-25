@@ -1,0 +1,10 @@
+{
+  "name": "관리비버",
+  "short_name": "관리비버",
+  "description": "관리비 확인에서 시작되는 일상의 사회안전망",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff6ec",
+  "theme_color": "#fff6ec",
+  "lang": "ko"
+}
